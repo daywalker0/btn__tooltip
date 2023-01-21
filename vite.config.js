@@ -3,7 +3,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/btn-tooltip/",
+  base: "/btn__tooltip/",
   plugins: [vue()],
   css: {
     preprocessorOptions: {
